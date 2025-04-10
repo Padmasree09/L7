@@ -30,7 +30,7 @@ A comprehensive Python application for tracking daily expenses and managing savi
 1. Clone the repository
 
    ```
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/Padmasree09/L7.git
    cd expense-tracker
    ```
 
